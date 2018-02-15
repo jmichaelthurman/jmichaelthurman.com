@@ -11,8 +11,9 @@ const IndexPage = (props) => {
       <div className={styles.hero}>
         <h1>Hi.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience,
-          specializing in developing React apps with the best UX users can get.
+          I&apos;m J. Michael Thurman, a technologist with five years of full-time industry experience,
+          generalizing in solutions using whichever tool seems to fit the problem at hand for large organizations, and ten years experience
+          working with dynamic web sites for small non-profits. 
         </p>
       </div>
       {postEdges.map(post => (
