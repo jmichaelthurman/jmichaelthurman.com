@@ -11,10 +11,8 @@ const IndexPage = (props) => {
       <div className={styles.hero}>
         <h1>Hi.</h1>
         <p>
-          I&apos;m Michael, a technologist with five years of full-time industry experience,
-          generalizing in solutions using whichever tool seems to fit the problem at hand for large organizations, and twenty years experience
-          working with web and IT solutions for small businesses and non-profits. <br />
-          I'm now focused on full stack systems hosted on major cloud providers. 
+          I&apos;m Michael, a technologist with five years of full-time IT operations experience, and twenty years of part-time consultancy on web and technology solutions.
+          I'm now focused (trying to focus) on full stack systems hosted on major cloud providers. 
         </p>
       </div>
       {postEdges.map(post => (
