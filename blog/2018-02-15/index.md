@@ -21,8 +21,20 @@ Frankly, I don't want to promise you results which I can't deliver.
 
 Among those results which I can't deliver is being a "unicorn" who can do **everything** technical.  
 
-Why can't we get comfort around our expertise and abilities and own the value we bring to the table? We are most valuable when we don't waste each other's time bobbing for solutions and are actually delivering what we can deliver. If I can't deliver the solution you need, I think I should own that, saving us both time, stress, and money. 
+Why can't we get comfort around our expertise and abilities and own the value we bring to the table?
 
-My name's "Michael, and I'm not a unicorn."  
+We are most valuable when we don't waste each other's time bobbing for solutions and are actually delivering what we can deliver. It isn't just scope in which we err. Our optimistic timelines and impact projections need right-sized, too. 
+
+If I can't deliver the solution you need, I think I should own that, saving us both time, stress, and money. Or, maybe, we can assemble a team to deliver an even better solution set? If not a team of employees, a team of capable contractors? 
+
+The possiblities are endless, once we stop deluding ourselves that unicorns exist. I can't be one. Neither can you. 
+
+I know. There's always someone demanding shorter timelines, lower cost and higher quality. 
+
+Pick two.
+
+Unicorns don't exist.
+
+"My name's 'Michael,' and I'm not a unicorn."  
 
  
