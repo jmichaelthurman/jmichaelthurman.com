@@ -10,6 +10,7 @@
     "gatsby-plugin-favicon": "^2.1.1",
     "gatsby-plugin-lodash": "^1.0.8",
     "gatsby-plugin-manifest": "^1.0.13",
+    "gatsby-plugin-netlify": "^1.0.19",
     "gatsby-plugin-offline": "^1.0.13",
     "gatsby-plugin-react-helmet": "^2.0.4",
     "gatsby-plugin-sitemap": "^1.2.11",
