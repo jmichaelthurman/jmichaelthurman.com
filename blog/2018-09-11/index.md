@@ -1,5 +1,4 @@
 --
-path: "blog/most-useful-skill-for-developers"
 date: "2018-09-11"
 title: "What’s the most useful skill for developers?"
 --
