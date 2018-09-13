@@ -1,7 +1,7 @@
---
+---
 date: "2018-09-11"
 title: "What’s the most useful skill for developers?"
---
+---
 
 *How do you know you’re not a senior-level developer?* 
 
