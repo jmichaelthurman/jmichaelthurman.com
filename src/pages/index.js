@@ -14,15 +14,15 @@ const IndexPage = (props) => {
           This blog is on hiatus. 
         </p>
       </div>
-//       {postEdges.map(post => (
-//         <Article
-//           title={post.node.frontmatter.title}
-//           date={post.node.frontmatter.date}
-//           excerpt={post.node.excerpt}
-//           slug={post.node.fields.slug}
-//           key={post.node.fields.slug}
-//         />
-//       ))}
+      {postEdges.map(post => (
+        <Article
+          title={post.node.frontmatter.title}
+          date={post.node.frontmatter.date}
+          excerpt={post.node.excerpt}
+          slug={post.node.fields.slug}
+          key={post.node.fields.slug}
+        />
+      ))}
     </div>
   );
 };
